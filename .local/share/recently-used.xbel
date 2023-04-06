@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/clmits/sample/api_training.py" added="2023-04-06T04:55:50.117704Z" modified="2023-04-06T04:55:50.117722Z" visited="2023-04-06T04:55:50.117705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-06T04:55:50.117707Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/clmits/API_CLMITS/db.json" added="2023-04-06T07:17:11.961608Z" modified="2023-04-06T07:17:11.961643Z" visited="2023-04-06T07:17:11.961609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-06T07:17:11.961610Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/clmits/api_server" added="2023-04-06T08:26:58.701945Z" modified="2023-04-06T09:38:12.738081Z" visited="2023-04-06T08:26:58.701948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-06T09:38:12.738077Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/clmits/api_server/training/urls.py" added="2023-04-06T08:31:53.211737Z" modified="2023-04-06T08:31:53.211746Z" visited="2023-04-06T08:31:53.211738Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-06T08:31:53.211741Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/clmits/API_CLMITS" added="2023-04-06T09:37:39.330713Z" modified="2023-04-06T09:37:39.330732Z" visited="2023-04-06T09:37:39.330714Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-06T09:37:39.330716Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/clmits/API_CLMITS/api_training.py" added="2023-04-06T10:51:50.824336Z" modified="2023-04-06T10:51:50.824357Z" visited="2023-04-06T10:51:50.824337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-04-06T10:51:50.824340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

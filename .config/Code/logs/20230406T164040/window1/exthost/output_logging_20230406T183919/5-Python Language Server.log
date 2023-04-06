@@ -1,0 +1,16 @@
+[Info  - 6:39:23 PM] (24973) Pylance language server 2023.4.10 (pyright d7616109) starting
+[Info  - 6:39:23 PM] (24973) Server root directory: /home/clmits/.vscode/extensions/ms-python.vscode-pylance-2023.4.10/dist
+[Info  - 6:39:23 PM] (24973) Starting service instance "api_server"
+[Info  - 6:39:23 PM] (24973) Auto-indent enabled
+[Info  - 6:39:23 PM] (24973) Setting pythonPath for service "api_server": "/home/clmits/api_server/bin/python"
+[Warn  - 6:39:23 PM] (24973) stubPath /home/clmits/api_server/typings is not a valid directory.
+[Info  - 6:39:23 PM] (24973) Assuming Python version 3.9
+[Info  - 6:39:23 PM] (24973) Auto-excluding /home/clmits/api_server
+[Info  - 6:39:23 PM] (24973) No source files found.
+[Info  - 6:39:23 PM] (24973) Background analysis(1) root directory: /home/clmits/.vscode/extensions/ms-python.vscode-pylance-2023.4.10/dist
+[Info  - 6:39:23 PM] (24973) Background analysis(1) started
+[Info  - 6:39:24 PM] (24973) Indexer background runner(2) root directory: /home/clmits/.vscode/extensions/ms-python.vscode-pylance-2023.4.10/dist (index)
+[Info  - 6:39:24 PM] (24973) Indexing(2) started
+[Info  - 6:39:24 PM] (24973) scanned(2) 35 files over 1 exec env
+[Info  - 6:39:25 PM] (24973) indexed(2) 24 files over 1 exec env
+[Info  - 6:39:25 PM] (24973) Indexing finished(2).

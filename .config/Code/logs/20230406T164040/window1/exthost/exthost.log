@@ -1,0 +1,121 @@
+2023-04-06 16:40:43.775 [info] Extension host with pid 15078 started
+2023-04-06 16:40:43.775 [info] Skipping acquiring lock for /home/clmits/.config/Code/User/workspaceStorage/c4013c414950ef2864e2602149519ab6.
+2023-04-06 16:40:44.090 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-06 16:40:44.142 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-04-06 16:40:44.330 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-04-06 16:40:45.595 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-04-06 16:40:45.658 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-06 16:40:45.686 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-04-06 16:40:45.939 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-04-06 16:40:46.065 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-06 16:40:46.095 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-06 16:40:46.191 [info] Eager extensions activated
+2023-04-06 16:40:46.303 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-06 16:40:46.307 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-06 16:40:46.461 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-04-06 16:41:09.743 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-04-06 17:37:39.557 [info] Extension host terminating: renderer closed the MessagePort
+2023-04-06 17:37:39.628 [info] Extension host with pid 15078 exiting with code 0
+2023-04-06 17:37:41.959 [info] Extension host with pid 20643 started
+2023-04-06 17:37:41.959 [info] Skipping acquiring lock for /home/clmits/.config/Code/User/workspaceStorage/e92d59769e4c3cf82afabba21a8d47e8.
+2023-04-06 17:37:42.071 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-04-06 17:37:42.142 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-06 17:37:42.150 [info] Eager extensions activated
+2023-04-06 17:37:42.170 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-06 17:37:42.173 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-06 17:37:42.450 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-04-06 17:37:42.844 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-04-06 17:37:45.085 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-04-06 17:38:12.863 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:12.870 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:12.900 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:12.973 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:13.002 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:13.135 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-06 17:38:13.658 [info] Extension host terminating: renderer closed the MessagePort
+2023-04-06 17:38:13.699 [error] Canceled: Canceled
+	at new l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:105190)
+	at c.O (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:11692)
+	at G.<computed>.Q.charCodeAt.G.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8967)
+	at m.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125211)
+	at m.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124587)
+	at L.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:123880)
+	at m.h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125797)
+	at m.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124687)
+	at m.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124587)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:23801)
+	at D (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1467156)
+	at E.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1481885)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:1485952
+	at Array.forEach (<anonymous>)
+	at g.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1485938)
+	at t.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12398)
+	at t.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12533)
+	at t.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1469286)
+	at t.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12533)
+	at C (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12084)
+	at E.Y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11147)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:9131
+	at Array.map (<anonymous>)
+	at E.R (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:9118)
+	at E.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:9389)
+	at d.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:1544)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:18690)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:14829)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-04-06 17:38:13.741 [info] Extension host with pid 20643 exiting with code 0
+2023-04-06 17:38:14.301 [info] Extension host with pid 20717 started
+2023-04-06 17:38:14.301 [info] Skipping acquiring lock for /home/clmits/.config/Code/User/workspaceStorage/04ade0189ed1f29574b15060a5e56915.
+2023-04-06 17:38:14.331 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-04-06 17:38:14.368 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-04-06 17:38:14.384 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:14.397 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:14.402 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:14.423 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:14.433 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 17:38:14.528 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-06 17:38:14.922 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2023-04-06 17:38:15.227 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-06 17:38:15.242 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-06 17:38:15.275 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-06 17:38:15.364 [info] Eager extensions activated
+2023-04-06 17:38:15.393 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-06 17:38:15.396 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-06 17:38:54.489 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-04-06 17:38:55.949 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-04-06 18:39:18.277 [info] Extension host terminating: renderer closed the MessagePort
+2023-04-06 18:39:18.330 [error] Canceled: Canceled
+	at Object.k [as canceled] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8301
+	at Array.forEach (<anonymous>)
+	at c.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:108:8266)
+	at E.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:9366)
+	at d.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:1544)
+	at p (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:18690)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:124:14829)
+	at MessagePortMain.emit (node:events:526:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:5:364) setContext undefined
+2023-04-06 18:39:18.376 [info] Extension host with pid 20717 exiting with code 0
+2023-04-06 18:39:19.381 [info] Extension host with pid 24919 started
+2023-04-06 18:39:19.381 [info] Skipping acquiring lock for /home/clmits/.config/Code/User/workspaceStorage/04ade0189ed1f29574b15060a5e56915.
+2023-04-06 18:39:19.431 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-04-06 18:39:19.462 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-04-06 18:39:19.510 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 18:39:19.518 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 18:39:19.531 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 18:39:19.561 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 18:39:19.579 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:json'
+2023-04-06 18:39:19.778 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-06 18:39:19.785 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-04-06 18:39:19.886 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+2023-04-06 18:39:20.467 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2023-04-06 18:39:20.472 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+2023-04-06 18:39:20.708 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-06 18:39:20.751 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-04-06 18:39:21.035 [info] Eager extensions activated
+2023-04-06 18:39:21.167 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-06 18:39:21.172 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

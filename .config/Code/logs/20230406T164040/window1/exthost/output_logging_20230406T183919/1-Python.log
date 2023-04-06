@@ -1,0 +1,10 @@
+Experiment 'pythonPromptNewToolsExt' is active
+Experiment 'pythonSurveyNotification' is active
+> conda info --json
+Python interpreter path: ./bin/python
+> . ./bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/printEnvVariables.py
+shell: bash
+> ./bin/python -I ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
+> /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
+Starting Pylance language server.

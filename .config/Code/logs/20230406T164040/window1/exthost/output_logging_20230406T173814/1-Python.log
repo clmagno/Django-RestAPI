@@ -1,0 +1,22 @@
+Experiment 'pythonPromptNewToolsExt' is active
+Experiment 'pythonSurveyNotification' is active
+Python interpreter path: /bin/python3
+Starting Pylance language server.
+> conda info --json
+> ~/api_server/bin/python -I ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
+> /bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+Python interpreter path: ./bin/python
+Python interpreter path: /bin/python3
+Python interpreter path: ./bin/python
+Python interpreter path: /bin/python3
+Python interpreter path: ./bin/python
+Python interpreter path: /bin/python3
+Python interpreter path: ./bin/python
+Python interpreter path: /bin/python3
+Python interpreter path: ./bin/python
+Python interpreter path: /bin/python3
+Python interpreter path: ./bin/python
+Python interpreter path: /bin/python3
+Python interpreter path: ./bin/python

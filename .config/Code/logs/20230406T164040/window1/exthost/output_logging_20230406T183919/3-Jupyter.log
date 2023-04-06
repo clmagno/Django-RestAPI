@@ -1,0 +1,10 @@
+Visual Studio Code (1.77.1, undefined, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+Workspace folder /home/clmits/api_server
+info 18:39:20.013: ZMQ loaded via fallback mechanism.
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'jupyterTestcf'
+info 18:39:20.350: LSP Notebooks experiment is enabled
+info 18:39:21.616: Process Execution: > ~/api_server/bin/python -m pip list
+> ~/api_server/bin/python -m pip list
