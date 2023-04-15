@@ -1,0 +1,64 @@
+- create folder
+- inside, create virtualenv 
+	use: virtualenv <name of env> (if virtualenv is missing use: pip install virtualenv)
+- activate env
+	windows: "Scripts\activate"
+	Linux/Mac: "source Bin\Activate"
+should display your env inside parenthesis on the left side.
+	"deactivate"
+- once env's enabled install req libs:
+pip install requests
+pip install django
+pip install djangorestframework
+
+- secure a copy of libraries
+  pip freeze > requirements.txt
+- if installing libs from reqs.txt
+use pip install -r requirements.txt
+
+- create django PROJECT using "django-admin startproject <name_of_project>"
+
+- navigate inside the project folder
+
+- create django APP using "django-admin startapp <name_of_app>"
+- install app and "rest_framework" in settings.py
+- edit project's urls.py
+  add include in import section
+	"from django.urls import path, include"
+ add "path('', include('<name_ of_app>.urls')),"
+
+-add urls.py for app
+ see the contents of it in github
+
+- edit models.py
+see the contents of it in github
+
+- create serializer.py
+see the contents of it in github
+
+- edit admin.py
+from .models import Event
+admin.site.register(Event)
+
+- views.py edit
+a. imports
+b. create classes and its functions refer to github codes
+- in terminal, run python manage.py makemigrations <app>
+"python manage.py makemigrations event"
+
+- in terminal run "python manage.py migrate"
+- create superuser via terminal
+  "python manage.py createsuperuser"
+	username
+	password (invisble while typing)
+
+
+
+- run your app by runnning "python manage.py runserver"
+
+- stop running server by pressing ctrl+c key
+
+
+ref:
+https://github.com/clmagno/api
+https://github.com/clmagno/api.git
